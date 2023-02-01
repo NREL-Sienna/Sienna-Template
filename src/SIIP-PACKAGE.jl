@@ -1,4 +1,5 @@
-module SIIP-PACKAGE
+module SIIP
+-PACKAGE
 
 using DocStringExtensions
 
