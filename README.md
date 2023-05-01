@@ -12,7 +12,7 @@ This repository contains the template files for a dummy package called SIIP-PACK
 - Testing
 - Documentation
 - Formatting
-- CI/CD to follow SIIP practices
+- CI/CD to follow Sienna practices
 
 ## Development
 
