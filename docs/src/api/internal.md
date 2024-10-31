@@ -1,6 +1,6 @@
 # Internal API
 
 ```@autodocs
-Modules = [SIIP-Package]
+Modules = [SIENNA-Package]
 Public = false
 ```

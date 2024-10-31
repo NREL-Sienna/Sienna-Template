@@ -1,4 +1,4 @@
-module SIIP
+module SIENNA
 -PACKAGE
 
 using DocStringExtensions
